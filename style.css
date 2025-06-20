@@ -74,3 +74,18 @@ footer {
   text-align: justify;
    color: #363636;
 }
+
+.container {
+      display: flex; /* Habilita o uso do flexbox */
+      align-items: center; /* Alinha os itens verticalmente */
+      gap: 20px; /* Adiciona um espaçamento entre a imagem e o texto */
+}
+
+.imagem {
+      width: 150px; /* Define a largura da imagem */
+      height: auto; /* Mantém a proporção da imagem */
+}
+
+.texto {
+       /* Estilos para o texto */
+}
